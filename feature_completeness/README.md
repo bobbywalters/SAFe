@@ -1,7 +1,7 @@
 Feature Completeness Report
 ===========================
 
-Generate a nice Scaled Agile Framework (SAFe) Feature Completeness report using Excel and a macro. With a data rows added for epics, features, and stories it's just a matter of clicking a button to generate an easy to read rich feature completeness report.
+Generate a nice Scaled Agile Framework (SAFe) Feature Completeness report using Excel and a macro. With data rows added for epics, features, and stories it's just a matter of clicking a button to generate an easy to read rich feature completeness report.
 
 ### Features of the report
 * Works with the Blue Agility Rational Team Concert SAFe Add-on
